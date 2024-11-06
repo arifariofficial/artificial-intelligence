@@ -4,7 +4,9 @@ Look for a command from the numpy documentation (or elsewhere on the Internet) t
 A=\begin{pmatrix}
 1&2\\
 3&4
-\end{pmatrix}{,} B=\begin{pmatrix}
+\end{pmatrix}{,} 
+
+B=\begin{pmatrix}
 -1  & 1\\
 5 & 7
 \end{pmatrix}
